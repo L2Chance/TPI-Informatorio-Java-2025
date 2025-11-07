@@ -1,0 +1,12 @@
+informatorio/interfaces/Exportable.class
+informatorio/service/menu/MenuService.class
+informatorio/App.class
+informatorio/domain/ExperimentoFisico.class
+informatorio/service/investigador/InvestigadorServiceImplement.class
+informatorio/service/experimento/ExperimentoServiceImplement.class
+informatorio/domain/Investigador.class
+informatorio/service/menu/MenuServiceImplement.class
+informatorio/service/investigador/InvestigadorService.class
+informatorio/domain/Experimento.class
+informatorio/domain/ExperimentoQuimico.class
+informatorio/service/experimento/ExperimentoService.class
